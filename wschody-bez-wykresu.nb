@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    592186,      13513]
-NotebookOptionsPosition[    591567,      13492]
-NotebookOutlinePosition[    591964,      13509]
-CellTagsIndexPosition[    591921,      13506]
+NotebookDataLength[    592337,      13519]
+NotebookOptionsPosition[    591718,      13498]
+NotebookOutlinePosition[    592115,      13515]
+CellTagsIndexPosition[    592072,      13512]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -138,27 +138,32 @@ Cell[BoxData[
    "\[IndentingNewLine]", 
    RowBox[{"(*", " ", 
     RowBox[{
-    "dzi\:0144", " ", "roku", " ", "rozpoczynaj\:0105cy", " ", "okres", " ", 
-     "czasu", " ", "dla", " ", "kt\[OAcute]rego", " ", "wy\:015bwietlane", 
-     " ", "s\:0105", " ", "dane", " ", "na", " ", "temat", " ", 
-     "wscod\[OAcute]w", " ", "i", " ", "zachod\[OAcute]w"}], " ", "*)"}], 
-   "\[IndentingNewLine]", 
+     RowBox[{
+     "dzie\:0144", " ", "roku", " ", "rozpoczynaj\:0105cy", " ", "okres", " ",
+       "czasu"}], ",", " ", 
+     RowBox[{
+     "dla", " ", "kt\[OAcute]rego", " ", "wy\:015bwietlane", " ", "s\:0105", 
+      " ", "dane", " ", "na", " ", "temat", " ", "wscod\[OAcute]w", " ", "i", 
+      " ", "zachod\[OAcute]w"}]}], " ", "*)"}], "\[IndentingNewLine]", 
    RowBox[{
     RowBox[{"start", " ", "=", " ", "1"}], ";"}], "\[IndentingNewLine]", 
    RowBox[{"(*", " ", 
     RowBox[{
-    "dzi\:0144", " ", "roku", " ", "ko\:0144cz\:0105cy", " ", "okres", " ", 
-     "czasu", " ", "dla", " ", "kt\[OAcute]rego", " ", "wy\:015bwietlane", 
-     " ", "s\:0105", " ", "dane", " ", "na", " ", "temat", " ", 
-     "wscod\[OAcute]w", " ", "i", " ", "zachod\[OAcute]w"}], " ", "*)"}], 
-   "\[IndentingNewLine]", 
+     RowBox[{
+     "dzie\:0144", " ", "roku", " ", "ko\:0144cz\:0105cy", " ", "okres", " ", 
+      "czasu"}], ",", " ", 
+     RowBox[{
+     "dla", " ", "kt\[OAcute]rego", " ", "wy\:015bwietlane", " ", "s\:0105", 
+      " ", "dane", " ", "na", " ", "temat", " ", "wscod\[OAcute]w", " ", "i", 
+      " ", "zachod\[OAcute]w"}]}], " ", "*)"}], "\[IndentingNewLine]", 
    RowBox[{
     RowBox[{"stop", " ", "=", " ", "365"}], ";"}], "\[IndentingNewLine]", 
    RowBox[{"(*", " ", 
     RowBox[{
-    "indeks", " ", "reprezentuj\:0105cy", " ", "miasto", " ", "dla", " ", 
-     "kt\[OAcute]rego", " ", "wy\:015bwietlane", " ", "s\:0105", " ", 
-     "dane"}], " ", "*)"}], "\[IndentingNewLine]", 
+     RowBox[{"indeks", " ", "reprezentuj\:0105cy", " ", "miasto"}], ",", " ", 
+     RowBox[{
+     "dla", " ", "kt\[OAcute]rego", " ", "wy\:015bwietlane", " ", "s\:0105", 
+      " ", "dane"}]}], " ", "*)"}], "\[IndentingNewLine]", 
    RowBox[{
     RowBox[{"index", " ", "=", " ", "2"}], ";"}], "\[IndentingNewLine]", 
    RowBox[{"(*", " ", 
@@ -248,9 +253,10 @@ Cell[BoxData[
    3.7555079092306805`*^9, 3.7555079093064766`*^9}, {3.7555080391033993`*^9, 
    3.755508054841123*^9}, {3.7555082192841625`*^9, 3.7555082881653967`*^9}, {
    3.7555084447192316`*^9, 3.75550851196616*^9}, {3.7555085586901693`*^9, 
-   3.75550870572324*^9}, {3.7555087831789703`*^9, 3.7555089818495774`*^9}},
- CellLabel->
-  "In[265]:=",ExpressionUUID->"f64b00c7-f8f0-4f10-99b0-2d76dadaf744"],
+   3.75550870572324*^9}, {3.7555087831789703`*^9, 3.7555089818495774`*^9}, {
+   3.7558433588435926`*^9, 
+   3.755843387192371*^9}},ExpressionUUID->"f64b00c7-f8f0-4f10-99b0-\
+2d76dadaf744"],
 
 Cell[CellGroupData[{
 
@@ -13509,10 +13515,10 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 10056, 230, 1125, "Input",ExpressionUUID->"f64b00c7-f8f0-4f10-99b0-2d76dadaf744"],
+Cell[580, 22, 10207, 236, 1125, "Input",ExpressionUUID->"f64b00c7-f8f0-4f10-99b0-2d76dadaf744"],
 Cell[CellGroupData[{
-Cell[10661, 256, 1609, 27, 27, "Print",ExpressionUUID->"36334fb9-f101-4d88-9713-c8a79d8ebe6d"],
-Cell[12273, 285, 579266, 13203, 12435, "Print",ExpressionUUID->"b933b2ce-eeb9-4f67-ae8b-05516a4cd64a"]
+Cell[10812, 262, 1609, 27, 27, "Print",ExpressionUUID->"36334fb9-f101-4d88-9713-c8a79d8ebe6d"],
+Cell[12424, 291, 579266, 13203, 12435, "Print",ExpressionUUID->"b933b2ce-eeb9-4f67-ae8b-05516a4cd64a"]
 }, Open  ]]
 }, Open  ]]
 }
